@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "df68eaed6af8f652",
+    "type": "split",
+    "children": [
+      {
+        "id": "686ec191fb816576",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa87388fefd23ff3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1a7c3811da961fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f8c651fcfdb8f81",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4bff622ad3973fc9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cff3a6c339e7f624",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7f6a8e6c7e84c64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "194cd2d99afad7fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "686ec191fb816576",
+  "lastOpenFiles": [
+    "recommended-books/readme.md",
+    "design-tools/Untitled.md",
+    "articles/readme.md",
+    "README.md"
+  ]
+}
